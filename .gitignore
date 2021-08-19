@@ -21,6 +21,8 @@ node_modules/
 
 # misc folders
 dist/
+img/
+files/
 
 # reference / archives
 archives/
